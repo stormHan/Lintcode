@@ -20,11 +20,11 @@ int main(int argc, char** argv)
 	//n.test();
 	//BitSwapRequired b;
 	//b.test();
-	//LongestIncreasingContinuousSubsequence l;
-	//l.test();
-	restoreIp r;
-	r.restoreIpAddresses("255255111");
-
+	LongestIncreasingContinuousSubsequence l;
+	l.test();
+	//restoreIp r;
+	//r.restoreIpAddresses("255255111");
+	
 	system("pause");
 	return 0;
 }
